@@ -100,7 +100,7 @@ ster_pitchers_23 <- d1_westmont_pitching[d1_westmont_pitching$player_name %in% c
 
 
 #save.csv
-write.csv(ster_batters_23, "SterHitters'23")
-write.csv(ster_pitchers_23, "SterPitchers'23")
+write.csv(ster_batters_23, "SterHitters'23.csv")
+write.csv(ster_pitchers_23, "SterPitchers'23.csv")
 
                                                                                                               
